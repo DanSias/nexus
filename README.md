@@ -1,4 +1,4 @@
-# Business Intelligence Platform
+# neXus - A Business Intelligence Platform
 
 ## Overview
 This repository contains a Business Intelligence (BI) platform developed using Laravel (backend) and Vue.js (frontend). The platform was designed to provide robust data visualization, insightful analytics, and user-friendly interfaces for business decision-making processes. Developed during my tenure as a full stack developer, it showcases my expertise in building scalable and efficient web applications.
